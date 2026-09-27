@@ -6,7 +6,7 @@
       "titleId": "BREW00101",
       "contentId": "IV0000-BREW00101_00-OPENORBISAPP0000",
       "version": "1.02",
-      "build": 3,
+      "build": 4,
       "url": "https://raw.githubusercontent.com/rzrzjajja-star/otarepository/main/StoreNetwork.pkg",
       "size": 6619136,
       "notes": " descarga OTA , reanudacion automatica y auto instalacion."
