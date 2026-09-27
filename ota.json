@@ -9,7 +9,7 @@
       "build": 3,
       "url": "https://raw.githubusercontent.com/rzrzjajja-star/otarepository/main/StoreNetwork.pkg",
       "size": 6619136,
-      "notes": "Fondo negro, barra de navegacion sin solapes, cancelar y eliminar descargas, auto repeticion en las listas, descarga OTA con pools SSL grandes, reanudacion automatica y auto instalacion."
+      "notes": " descarga OTA , reanudacion automatica y auto instalacion."
     }
   ]
 }
