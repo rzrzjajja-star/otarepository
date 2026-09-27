@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "SMBB001",
+      "name": "Super Monkey Ball Banana Blitz",
+      "developer": "Sega",
+      "category": "Juegos",
+      "version": "1.03",
+      "size": 1379991552,
+      "description": "Juego de plataformas 3D de Sega con 50 niveles y modo contrarreloj. Paquete FPAG de Archive.org en ingles, version 1.03. Sirve para probar la descarga de paquetes grandes con reanudacion por Rangos.",
+      "downloadUrl": "https://archive.org/download/ps4-fpkg-collection-english-s/Super%20Monkey%20Ball%20Banana%20Blitz%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.03%5D.pkg"
+    },
+    {
+      "id": "DEMO001",
+      "name": "Neon Drift",
+      "developer": "OpenOrbis Labs",
+      "category": "Juegos",
+      "version": "1.04",
+      "size": 157286400,
+      "description": "Juego de carreras arcade con pista infinita y modo contra reloj. Incluye 12 vehiculos y 8 escenarios distintos para navegar con el joystick izquierdo.",
+      "downloadUrl": ""
+    },
+    {
+      "id": "DEMO002",
+      "name": "Pixel Mines",
+      "developer": "Bitwise",
+      "category": "Juegos",
+      "version": "2.10",
+      "size": 41943040,
+      "description": "Minas clasicas con 40 niveles, tabla deRecords local y tres niveles de dificultad que cambian el numero de minas por fila.",
+      "downloadUrl": ""
+    },
+    {
+      "id": "DEMO003",
+      "name": "Retro Audio Player",
+      "developer": "OpenOrbis Labs",
+      "category": "Multimedia",
+      "version": "1.00",
+      "size": 8388608,
+      "description": "Reproductor de audio con navegacion por carpetas, control de volumen desde el control y lectura de etiquetas ID3.",
+      "downloadUrl": ""
+    },
+    {
+      "id": "DEMO004",
+      "name": "Shader Playground",
+      "developer": "CgLabs",
+      "category": "Utilidades",
+      "version": "0.9",
+      "size": 12582912,
+      "description": "Galeria de efectos GLSL con parametros ajustables en vivo. Sirve para comprobar el pipeline de render de la consola.",
+      "downloadUrl": ""
+    },
+    {
+      "id": "DEMO005",
+      "name": "SysInfo Panel",
+      "developer": "OpenOrbis Labs",
+      "category": "Utilidades",
+      "version": "1.02",
+      "size": 2097152,
+      "description": "Muestra temperatura de CPU y GPU, uso de memoria, velocidad del reloj y espacio libre en el disco interno.",
+      "downloadUrl": ""
+    },
+    {
+      "id": "DEMO006",
+      "name": "Terminal Shell",
+      "developer": "ShellWorks",
+      "category": "Utilidades",
+      "version": "1.30",
+      "size": 6291456,
+      "description": "Shell de linea de comandos con historial, autocompletado y editor de archivos. Incluye los comandos basicos de unix sobre el sistema de archivos de la consola.",
+      "downloadUrl": ""
+    },
+    {
+      "id": "DEMO007",
+      "name": "Sprite Toolkit",
+      "developer": "Bitwise",
+      "category": "Multimedia",
+      "version": "1.15",
+      "size": 18874368,
+      "description": "Convierte imagenes PNG a texturas con atlas, recorta regiones y genera archivos de salida listos para el paquete de la aplicacion.",
+      "downloadUrl": ""
+    },
+    {
+      "id": "DEMO008",
+      "name": "Puzzle Blocks",
+      "developer": "IndieSoft",
+      "category": "Juegos",
+      "version": "3.02",
+      "size": 73400320,
+      "description": "Puzzle de bloques en 3D con rotacion mediante el control y 150 niveles generados de forma procedural.",
+      "downloadUrl": ""
+    }
+  ]
+}
