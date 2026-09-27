@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "notes": "Manifiesto de actualizacion de OpenOrbis Store. Este archivo se lee al arrancar y el boton de la cabecera vuelve a consultarlo cuando se pulsa. Debe servirse como archivo plano con HTTP 200.",
+  "notes": "Hola!",
   "packages": [
     {
       "titleId": "BREW00101",
       "contentId": "IV0000-BREW00101_00-OPENORBISAPP0000",
       "version": "1.0.1",
       "build": 2,
-      "url": "https://raw.githubusercontent.com/rzrzjajja-star/otarepository/main/IV0000-BREW00101_00-OPENORBISAPP0000.pkg",
+      "url": "https://raw.githubusercontent.com/rzrzjajja-star/otarepository/main/StoreNetwork.pkg",
       "size": 6619136,
       "notes": "Version de la app 1.0.1"
     }
