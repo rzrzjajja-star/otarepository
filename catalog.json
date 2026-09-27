@@ -13,13 +13,13 @@
     },
     {
       "id": "DEMO001",
-      "name": "Neon Drift",
-      "developer": "OpenOrbis Labs",
+      "name": "The Sims 4",
+      "developer": "EA",
       "category": "Juegos",
       "version": "1.04",
       "size": 157286400,
-      "description": "Juego de carreras arcade con pista infinita y modo contra reloj. Incluye 12 vehiculos y 8 escenarios distintos para navegar con el joystick izquierdo.",
-      "downloadUrl": ""
+      "description": "The Sims 4.",
+      "downloadUrl": "https://archive.org/download/ps4-fpkg-collection-english-t/The%20Sims%204%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.95%5D.pkg"
     },
     {
       "id": "DEMO002",
