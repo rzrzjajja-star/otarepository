@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "notes": "Manifiesto de actualizacion de OpenOrbis Store. Este archivo se lee al arrancar y el boton de la cabecera vuelve a consultarlo cuando se pulsa. Debe servirse como archivo plano con HTTP 200.",
+  "packages": [
+    {
+      "titleId": "BREW00101",
+      "contentId": "IV0000-BREW00101_00-OPENORBISAPP0000",
+      "version": "1.00",
+      "build": 1,
+      "url": "https://raw.githubusercontent.com/rzrzjajja-star/otarepository/main/IV0000-BREW00101_00-OPENORBISAPP0000.pkg",
+      "size": 6619136,
+      "notes": "Fondo negro, barra de navegacion sin solapes, cancelar y eliminar descargas, lectura de titulos instalados y auto repeticion en las listas."
+    }
+  ]
+}
