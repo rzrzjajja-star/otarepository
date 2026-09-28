@@ -12,6 +12,16 @@
       "downloadUrl": "https://archive.org/download/ps4-fpkg-collection-english-s/Super%20Monkey%20Ball%20Banana%20Blitz%20-%20%5BUS%5D%20%5BEN%5D%20%5B1.03%5D.pkg"
     },
     {
+      "id": "POP039",
+      "name": "Poppy Playtime 2",
+      "developer": "Nodata",
+      "category": "Juegos",
+      "version": "1.03",
+      "size": 029299292,
+      "description": "PoppyPlaytime 2",
+      "downloadUrl": "https://archive.org/download/superpsx-poppy-playtime-ch2-ps4/Poppy.Playtime.Chapter.2.CUSA47693.pkg"
+    },
+    {
       "id": "DEMO001",
       "name": "The Sims 4",
       "developer": "EA",
