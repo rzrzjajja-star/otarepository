@@ -23,13 +23,13 @@
     },
     {
       "id": "DEMO002",
-      "name": "Pixel Mines",
-      "developer": "Bitwise",
+      "name": "Actualizacion Importante de la App ",
+      "developer": "UpdaterStore",
       "category": "Juegos",
       "version": "2.10",
       "size": 41943040,
-      "description": "Minas clasicas con 40 niveles, tabla deRecords local y tres niveles de dificultad que cambian el numero de minas por fila.",
-      "downloadUrl": ""
+      "description": "Update",
+      "downloadUrl": "https://raw.githubusercontent.com/rzrzjajja-star/otarepository/main/StoreNetwork.pkg"
     },
     {
       "id": "DEMO003",
