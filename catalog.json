@@ -33,13 +33,13 @@
     },
     {
       "id": "DEMO003",
-      "name": "Retro Audio Player",
+      "name": "GRAN TURISMO 7",
       "developer": "OpenOrbis Labs",
-      "category": "Multimedia",
+      "category": "Juegos",
       "version": "1.00",
-      "size": 8388608,
-      "description": "Reproductor de audio con navegacion por carpetas, control de volumen desde el control y lectura de etiquetas ID3.",
-      "downloadUrl": ""
+      "size": ,
+      "description": "",
+      "downloadUrl": "https://archive.org/download/gran-turismo-7-sport-2017-ps4-pkg/Gran%20Turismo%20Sport%20v1.14%20by%20MorpheusGames/PS4_Gran_Turismo_Sport_CUSA02168_01_Game_Full.pkg"
     },
     {
       "id": "DEMO004",
