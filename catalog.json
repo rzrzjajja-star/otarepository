@@ -8680,6 +8680,486 @@
       "size": 0,
       "description": "nodata",
       "downloadUrl": "https://archive.org/download/ps4-fpkg-collection-english-z/Zombie%20Army%20Trilogy%20-%20[EU]%20[EN]%20[1.01].pkg"
+    },
+    {
+      "id": "G0867",
+      "name": "3Xtreme",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 260243456,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/3XTREME.pkg"
+    },
+    {
+      "id": "G0868",
+      "name": "Aces of the Air",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 19857408,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Aces%20of%20the%20Air.pkg"
+    },
+    {
+      "id": "G0869",
+      "name": "Airgrave",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 52887552,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Airgrave.pkg"
+    },
+    {
+      "id": "G0870",
+      "name": "Akuji The Heartless",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 60817408,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Akuji%20%20The%20Heartless.pkg"
+    },
+    {
+      "id": "G0871",
+      "name": "Alien Resurrection",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 118947840,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Alien%20Resurrection.pkg"
+    },
+    {
+      "id": "G0872",
+      "name": "Alien Trilogy",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 38666240,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Alien%20Trilogy.pkg"
+    },
+    {
+      "id": "G0873",
+      "name": "Alundra",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 113901568,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Alundra.pkg"
+    },
+    {
+      "id": "G0874",
+      "name": "Azure Dreams",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 60882944,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Azure%20Dreams.pkg"
+    },
+    {
+      "id": "G0875",
+      "name": "Battle Arena Toshinden 3",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 481689600,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Battle%20Arena%20Toshinden%203.pkg"
+    },
+    {
+      "id": "G0876",
+      "name": "Beyond the Beyond",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 34406400,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Beyond%20the%20Beyond.pkg"
+    },
+    {
+      "id": "G0877",
+      "name": "Bio FREAKS",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 49086464,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Bio%20FREAKS.pkg"
+    },
+    {
+      "id": "G0878",
+      "name": "Bloody Roar",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 28442624,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Bloody%20Roar%20.pkg"
+    },
+    {
+      "id": "G0879",
+      "name": "Bloody Roar 2",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 395902976,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Bloody%20Roar%202_PS1.pkg"
+    },
+    {
+      "id": "G0880",
+      "name": "Bomberman Fantasy Race",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 175702016,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Bomberman%20Fantasy%20Race.pkg"
+    },
+    {
+      "id": "G0881",
+      "name": "Bomberman Party Edition",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 318898176,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/bomberman%20party%20edition.pkg"
+    },
+    {
+      "id": "G0882",
+      "name": "Bomberman World",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 408944640,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Bomberman%20world.pkg"
+    },
+    {
+      "id": "G0883",
+      "name": "Bugs Bunny & Taz - Time Busters",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 472842240,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Bugs%20Bunny%20%26%20Taz%20-%20Time%20Busters%20.pkg"
+    },
+    {
+      "id": "G0884",
+      "name": "Castlevania - Symphony of the Night",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 428802048,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Castlevania%20-%20Symphony%20of%20the%20Night.pkg"
+    },
+    {
+      "id": "G0885",
+      "name": "Chrono Cross",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 544669696,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Chrono%20Cross%20PS1.pkg"
+    },
+    {
+      "id": "G0886",
+      "name": "Crash Bash",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 130285568,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/crash-bash.pkg"
+    },
+    {
+      "id": "G0887",
+      "name": "Digimon-Rumble-Arena",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 198705152,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Digimon-Rumble-Arena.pkg"
+    },
+    {
+      "id": "G0888",
+      "name": "Dragon Ball GT",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 79495168,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Dragon%20Ball%20GT.pkg"
+    },
+    {
+      "id": "G0889",
+      "name": "GTA 2",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 416874496,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/GTA%202.pkg"
+    },
+    {
+      "id": "G0890",
+      "name": "Kamen Rider Ryuki",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 121176064,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Kamen%20Rider%20Ryuki%20PS1_PS4GOLDEN.pkg"
+    },
+    {
+      "id": "G0891",
+      "name": "Marvel Super Heroes",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 336855040,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Marvel%20Super%20Heroes.pkg"
+    },
+    {
+      "id": "G0892",
+      "name": "Marvel vs Street Fight",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 335872000,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Marvel%20vs%20street%20fight.pkg"
+    },
+    {
+      "id": "G0893",
+      "name": "Marvel vs. Capcom - Clash of Super Heroes",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 312410112,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Marvel%20vs.%20Capcom%20-%20Clash%20of%20Super%20Heroes%20PS1_PS4GOLDEN.pkg"
+    },
+    {
+      "id": "G0894",
+      "name": "Medal of Honor",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 590675968,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Medal%20of%20Honor%20PS4GOLDEN.pkg"
+    },
+    {
+      "id": "G0895",
+      "name": "Medal of Honor Underground",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 620036096,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Medal%20of%20Honor%20Underground%20PS4GOLDEN.pkg"
+    },
+    {
+      "id": "G0896",
+      "name": "Moto Racer World Tour",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 635502592,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/[PS1toPS4]%20Moto%20Racer%20World%20Tour.PKG"
+    },
+    {
+      "id": "G0897",
+      "name": "Parasite Eve II (PT-BR)",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 976355328,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Parasite%20Eve%20II%20(PT-BR).pkg"
+    },
+    {
+      "id": "G0898",
+      "name": "Persona 2",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 768409600,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Persona%202%20PS1GOLDEN.pkg"
+    },
+    {
+      "id": "G0899",
+      "name": "Resident Evil 1",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 411697152,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Resident%20Evil%201%20BR%20CUSA00927%20PS1.pkg"
+    },
+    {
+      "id": "G0900",
+      "name": "Resident Evil 2",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 944766976,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Resident%20Evil%202%20BR%20CUSA00755%20PS1.pkg"
+    },
+    {
+      "id": "G0901",
+      "name": "Resident Evil Nemesis",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 468910080,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Resident%20Evil%20Nemesis%20BR%20CUSA00924%20PS1.pkg"
+    },
+    {
+      "id": "G0902",
+      "name": "Resident Evil Survivor",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 245760000,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Resident%20Evil%20Survivor%20BR%20CUSA01088%20PS1.pkg"
+    },
+    {
+      "id": "G0903",
+      "name": "Road Rash",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 429457408,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Road%20Rash.pkg"
+    },
+    {
+      "id": "G0904",
+      "name": "Silent Hill",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 397803520,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Silent%20Hill%20BR%20CUSA00925%20PS1.pkg"
+    },
+    {
+      "id": "G0905",
+      "name": "Space Jam",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 126681088,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/SPACE%20JAM.pkg"
+    },
+    {
+      "id": "G0906",
+      "name": "Spyro the Dragon",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 411172864,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/spyro%20the%20dragon.pkg"
+    },
+    {
+      "id": "G0907",
+      "name": "Tekken",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 695140352,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Tekken_PS1.pkg"
+    },
+    {
+      "id": "G0908",
+      "name": "Tony Hawk Pro Skater",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 440139776,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Tony%20Hawk%20Pro%20Skater_PS1.pkg"
+    },
+    {
+      "id": "G0909",
+      "name": "Tony Hawk's Pro Skater 2",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 552861696,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Tony%20Hawk's%20Pro%20Skater%202_PS1.pkg"
+    },
+    {
+      "id": "G0910",
+      "name": "Tony Hawk's Pro Skater 3",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 456327168,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Tony%20Hawk's%20Pro%20Skater%203_PS1.pkg"
+    },
+    {
+      "id": "G0911",
+      "name": "Tony Hawk's Pro Skater 4",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 568131584,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Tony%20Hawk's%20Pro%20Skater%204_PS1.pkg"
+    },
+    {
+      "id": "G0912",
+      "name": "Vigilante 8",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 672595968,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/VIGILANTE%208.pkg"
+    },
+    {
+      "id": "G0913",
+      "name": "Xtreme",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 105119744,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Xtreme.pkg"
+    },
+    {
+      "id": "G0914",
+      "name": "Yu-Gi-Oh! Forbidden Memories",
+      "developer": "nodata",
+      "category": "PS1",
+      "version": "1.01",
+      "size": 248578048,
+      "description": "nodata",
+      "downloadUrl": "https://archive.org/download/parasite-eve-ii-pt-br/Yu-Gi-Oh!%20Forbidden%20Memories%20(BR)PS1.pkg"
     }
   ]
 }
