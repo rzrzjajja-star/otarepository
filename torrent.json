@@ -1,0 +1,25 @@
+{
+  "_comment": [
+    "Entradas de torrent. Se fusionan con catalog.json, no lo sustituyen: una entrada",
+    "cuyo id ya exista en el catalogo se ignora, de modo que un juego se puede",
+    "enriquecer con un magnet sin aparecer dos veces.",
+    "",
+    "Solo hace falta 'magnet'. 'downloadUrl' es opcional y sirve para que el mismo",
+    "titulo tambien se pueda bajar por HTTP. 'size' es el total en bytes del torrent,",
+    "no el de un unico archivo, y en un torrent multiarchivo no coincide con el pkg.",
+    "",
+    "El id no puede llevar '/' ni '.': con el se nombra el archivo en /data/pkg."
+  ],
+  "apps": [
+    {
+      "id": "PPYC5",
+      "name": "Poppy Playtime Chapter 5",
+      "developer": "MOB Games",
+      "category": "Juegos",
+      "version": "1.00",
+      "size": 10546642944,
+      "description": "Poppy",
+      "magnet": "magnet:?xt=urn:btih:9fbb17d030f7f5c51310fa49319eb28a30eb3329&dn=Poppy+Playtime+Chapter+5&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+    }
+  ]
+}
